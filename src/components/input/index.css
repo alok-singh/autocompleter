@@ -1,0 +1,11 @@
+.u-input {
+  all: unset;
+  text-align: left;
+  padding: 0px 10px;
+  border-radius: 20px;
+  flex-grow: 1;
+  margin: 5px;
+  background: #eee;
+  font-size: 12px;
+  height: 31px;
+}

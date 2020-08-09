@@ -1,0 +1,12 @@
+.tag {
+  font-size: 12px;
+  display: flex;
+  padding: 8px;
+  border-radius: 20px;
+  background: #eeeeee;
+  margin: 5px;
+}
+
+.tag-text {
+  margin-right: 10px;
+}
