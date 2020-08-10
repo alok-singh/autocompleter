@@ -1,0 +1,280 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`unit testing for list item in autocompleter list 1`] = `
+<body>
+  <div>
+    <div>
+      <div
+        class="list-item"
+      >
+        <img
+          alt="Thor"
+          class="u-image item-image"
+        />
+        <div
+          class="item-description"
+        >
+          <div
+            class="item-title"
+          >
+            Thor
+          </div>
+          <div
+            class="item-type"
+          >
+            movie
+          </div>
+          <div
+            class="item-year"
+          >
+            2011
+          </div>
+        </div>
+      </div>
+      <div
+        class="list-item"
+      >
+        <img
+          alt="Thor: The Dark World"
+          class="u-image item-image"
+        />
+        <div
+          class="item-description"
+        >
+          <div
+            class="item-title"
+          >
+            Thor: The Dark World
+          </div>
+          <div
+            class="item-type"
+          >
+            movie
+          </div>
+          <div
+            class="item-year"
+          >
+            2013
+          </div>
+        </div>
+      </div>
+      <div
+        class="list-item"
+      >
+        <img
+          alt="Thor: Ragnarok"
+          class="u-image item-image"
+        />
+        <div
+          class="item-description"
+        >
+          <div
+            class="item-title"
+          >
+            Thor: Ragnarok
+          </div>
+          <div
+            class="item-type"
+          >
+            movie
+          </div>
+          <div
+            class="item-year"
+          >
+            2017
+          </div>
+        </div>
+      </div>
+      <div
+        class="list-item"
+      >
+        <img
+          alt="Team Thor"
+          class="u-image item-image"
+        />
+        <div
+          class="item-description"
+        >
+          <div
+            class="item-title"
+          >
+            Team Thor
+          </div>
+          <div
+            class="item-type"
+          >
+            movie
+          </div>
+          <div
+            class="item-year"
+          >
+            2016
+          </div>
+        </div>
+      </div>
+      <div
+        class="list-item"
+      >
+        <img
+          alt="Thor: Tales of Asgard"
+          class="u-image item-image"
+        />
+        <div
+          class="item-description"
+        >
+          <div
+            class="item-title"
+          >
+            Thor: Tales of Asgard
+          </div>
+          <div
+            class="item-type"
+          >
+            movie
+          </div>
+          <div
+            class="item-year"
+          >
+            2011
+          </div>
+        </div>
+      </div>
+      <div
+        class="list-item"
+      >
+        <img
+          alt="Team Thor: Part 2"
+          class="u-image item-image"
+        />
+        <div
+          class="item-description"
+        >
+          <div
+            class="item-title"
+          >
+            Team Thor: Part 2
+          </div>
+          <div
+            class="item-type"
+          >
+            movie
+          </div>
+          <div
+            class="item-year"
+          >
+            2017
+          </div>
+        </div>
+      </div>
+      <div
+        class="list-item"
+      >
+        <img
+          alt="Almighty Thor"
+          class="u-image item-image"
+        />
+        <div
+          class="item-description"
+        >
+          <div
+            class="item-title"
+          >
+            Almighty Thor
+          </div>
+          <div
+            class="item-type"
+          >
+            movie
+          </div>
+          <div
+            class="item-year"
+          >
+            2011
+          </div>
+        </div>
+      </div>
+      <div
+        class="list-item"
+      >
+        <img
+          alt="Thor: Hammer of the Gods"
+          class="u-image item-image"
+        />
+        <div
+          class="item-description"
+        >
+          <div
+            class="item-title"
+          >
+            Thor: Hammer of the Gods
+          </div>
+          <div
+            class="item-type"
+          >
+            movie
+          </div>
+          <div
+            class="item-year"
+          >
+            2009
+          </div>
+        </div>
+      </div>
+      <div
+        class="list-item"
+      >
+        <img
+          alt="Thor: Legend of the Magical Hammer"
+          class="u-image item-image"
+        />
+        <div
+          class="item-description"
+        >
+          <div
+            class="item-title"
+          >
+            Thor: Legend of the Magical Hammer
+          </div>
+          <div
+            class="item-type"
+          >
+            movie
+          </div>
+          <div
+            class="item-year"
+          >
+            2011
+          </div>
+        </div>
+      </div>
+      <div
+        class="list-item"
+      >
+        <img
+          alt="I Am Thor"
+          class="u-image item-image"
+        />
+        <div
+          class="item-description"
+        >
+          <div
+            class="item-title"
+          >
+            I Am Thor
+          </div>
+          <div
+            class="item-type"
+          >
+            movie
+          </div>
+          <div
+            class="item-year"
+          >
+            2015
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;

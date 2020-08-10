@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Unit testing for tag component 1`] = `
+<body>
+  <div>
+    <div
+      class="tag"
+    >
+      <div
+        class="tag-text"
+      >
+        selected movie
+      </div>
+      <div
+        class="close-button"
+      >
+        <svg
+          height="10px"
+          version="1.1"
+          viewBox="0 0 357 357"
+          width="10px"
+          x="0px"
+          y="0px"
+        >
+          <g
+            id="close"
+          >
+            <polygon
+              points="357,35.7 321.3,0 178.5,142.8 35.7,0 0,35.7 142.8,178.5 0,321.3 35.7,357 178.5,214.2 321.3,357 357,321.3  214.2,178.5"
+            />
+          </g>
+        </svg>
+      </div>
+    </div>
+  </div>
+</body>
+`;

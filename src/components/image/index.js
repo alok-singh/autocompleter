@@ -4,7 +4,7 @@ import { FALLBACK_IMAGE } from '../../config/vars';
 
 const Image = (props) => {
   return <img 
-    className={`u-image ${props.className}`}
+    className={`u-image ${props.className || ''}`}
     src={props.imageSrc} 
     alt={props.alt}
     onError={(event) => {

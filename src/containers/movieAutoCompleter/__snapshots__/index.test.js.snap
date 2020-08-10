@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<body>
+  <div>
+    <section
+      class="movie-autocompleter-container"
+    >
+      <div
+        class="tag-input-wrapper"
+      >
+        <input
+          class="u-input"
+          value=""
+        />
+      </div>
+    </section>
+  </div>
+</body>
+`;

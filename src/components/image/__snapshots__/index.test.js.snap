@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`unit tests for image components 1`] = `
+<body>
+  <div>
+    <img
+      class="u-image "
+    />
+  </div>
+</body>
+`;
+
+exports[`unit tests for image components with className component 1`] = `
+<body>
+  <div>
+    <img
+      class="u-image my-image"
+    />
+  </div>
+</body>
+`;

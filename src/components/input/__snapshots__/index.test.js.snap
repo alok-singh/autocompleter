@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Unit tests for Input component 1`] = `
+<body>
+  <div>
+    <input
+      class="u-input"
+      value="some text"
+    />
+  </div>
+</body>
+`;
